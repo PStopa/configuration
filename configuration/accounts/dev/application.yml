@@ -1,2 +1,2 @@
 service:
-  request-allowed: false
+  request-allowed: true
